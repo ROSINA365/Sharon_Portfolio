@@ -8,3 +8,4 @@ Using pandas, numpy amd visualization tools such as matplotlib
 # [Project 2: E-commerceWebsite](https://github.com/ROSINA365/E--commerce-Website)
 In this project I built an E-commerce website
 This website is user friendly and easy to navigate
+![](https://github.com/ROSINA365/Sharon_Portfolio/blob/main/Images/heatmap.png)
