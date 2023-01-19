@@ -9,3 +9,5 @@ Using pandas, numpy amd visualization tools such as matplotlib
 In this project I built an E-commerce website
 This website is user friendly and easy to navigate
 ![](/Images/heatmap.png)
+
+Sharon
