@@ -11,3 +11,4 @@ This website is user friendly and easy to navigate
 ![](/Images/heatmap.png)
 
 Sharon
+![](\Images/heatmap.png)
