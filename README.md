@@ -10,5 +10,4 @@ In this project I built an E-commerce website
 This website is user friendly and easy to navigate
 ![](/Images/heatmap.png)
 
-Sharon
-![](\Images/heatmap.png)
+
